@@ -80,7 +80,10 @@ public Cercla(Cercla c)
         return true;
     }
 
+    public static void main(String[] args) {
 
+    Cercla c = new Cercla();
+}
 
 }
 
