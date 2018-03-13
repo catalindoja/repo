@@ -83,6 +83,7 @@ public Cercla(Cercla c)
     public static void main(String[] args) {
 
     Cercla c = new Cercla();
+	
 }
 
 }
